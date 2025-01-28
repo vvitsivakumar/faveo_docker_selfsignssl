@@ -36,7 +36,7 @@ A valid domain name wholly propagated to your Server's IP.
 Sudo Privilege.
 Faveo license and Order number.
 Unreserved ports 80 and 443. (If it is reserved, feel free to edit and change the ports of your choice in docker-copompose.yml)
-Operating Systems Centos 7,8 or above, and Ubuntu 16,18,20.
+Operating Systems Centos 7,8 or above, and Ubuntu 16,18,20, 22.
 
 ## To get the Containers up and running, follow the instructions below.
 ---
